@@ -93,7 +93,7 @@ This design ensures we never send a bad PDF to the LLM (saving API costs) and th
 1.  **Clone the repository:**
 
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/iceman0110/assessment-seedflex1
     cd [your-project-folder]
     ```
 
